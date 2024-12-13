@@ -1,0 +1,11 @@
+@import url("../styles/DiscountModel.css");
+@import url("../styles/ProductList.css");
+@import url("../styles/ProductPicker.css");
+@import url("../styles/navbar.css");
+@import url("../styles/DragableCard.css");
+@import url("../styles/SortableItems.css");
+@import url("../styles/VariantAccordian.css");
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont;
+}

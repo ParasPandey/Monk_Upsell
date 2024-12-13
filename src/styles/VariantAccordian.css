@@ -1,0 +1,24 @@
+.variant-accordian {
+  box-shadow: none !important;
+  border: none;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
+.variant-accordian .accordian-summary {
+  gap: 10px;
+}
+.accordian-summary .MuiAccordionSummary-content {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.accordian-summary .accordian-summary-text {
+  color: #006eff;
+  text-decoration: underline;
+}
+.variant-accordian .MuiCollapse-root {
+  width: 100%;
+}

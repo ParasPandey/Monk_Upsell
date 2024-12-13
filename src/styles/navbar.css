@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  height: 60px;
+  border-bottom: 1px solid #d1d1d1;
+  align-items: center;
+  gap: 20px;
+  padding: 0px 10px;
+}
+
+.navbar .nav_logo img {
+  height: 40px;
+  width: 40px;
+}
+.navbar .nav_header {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #7e8185;
+}
